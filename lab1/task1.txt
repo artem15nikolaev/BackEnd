@@ -1,0 +1,14 @@
+a. /index.txt - Текстовый файл с содержимым Hello world
+   Content-Type: text/plain
+   Content-Length: 14
+   Server: nginx/1.2.2
+
+b. /image/web_technologies.png
+   Content-Type: image/png
+   Content-Length: 335525
+   Server: nginx/1.2.2
+
+c. /media/Water.mp4
+   Content-Type: application/octet-stream
+   Content-Length: 1137202
+   Server: nginx/1.2.2
