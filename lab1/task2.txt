@@ -1,0 +1,17 @@
+a. http://localhost/lw1/mysql_is_a_database_server.html
+   404 Not Found
+   Код ошибки, означает, что данные не найдены. Чтобы исправить,
+   надо создать этот файл.
+
+b. http://localhost/lw1/nginx_is_fast_http_server.txt
+   200 OK
+   Специальное поведение, запрос выполнен.
+
+c. http://localhost/lw1/php_is_a_server_scripting_language.php
+   302 Found
+   Специальное поведение, ресурс отсутствует временно.
+
+d. http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
+   HTTP ERROR 400
+   Код ошибки, неправильный запрос. Чтобы исправить,
+   надо в запросе hardly заменить на hard.
