@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\bin\Debug\print args.exe.config
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\bin\Debug\print args.exe
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\bin\Debug\print args.pdb
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\obj\Debug\print args.csprojAssemblyReference.cache
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\obj\Debug\print args.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\obj\Debug\print args.exe
+C:\Users\user\Documents\Backend\Лабораторная работа 2\print args\print args\obj\Debug\print args.pdb

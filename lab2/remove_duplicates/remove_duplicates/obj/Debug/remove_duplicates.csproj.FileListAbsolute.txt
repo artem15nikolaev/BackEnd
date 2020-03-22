@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\bin\Debug\remove_duplicates.exe.config
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\bin\Debug\remove_duplicates.exe
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\bin\Debug\remove_duplicates.pdb
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\obj\Debug\remove_duplicates.csprojAssemblyReference.cache
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\obj\Debug\remove_duplicates.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\obj\Debug\remove_duplicates.exe
+C:\Users\user\Documents\Backend\Лабораторная работа 2\remove_duplicates\remove_duplicates\obj\Debug\remove_duplicates.pdb
